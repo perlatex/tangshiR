@@ -3,7 +3,7 @@
 \docType{data}
 \name{tangshi}
 \alias{tangshi}
-\title{Data from tang shi}
+\title{Data from poetry of the Tang Dynasty}
 \format{
 A data frame with 42945 rows and 5 variables:
 \describe{
@@ -18,6 +18,6 @@ A data frame with 42945 rows and 5 variables:
 tangshi
 }
 \description{
-Data from tang shi
+Data from poetry of the Tang Dynasty
 }
 \keyword{datasets}

@@ -1,4 +1,4 @@
-#' Data from tang shi
+#' Data from poetry of the Tang Dynasty
 #'
 #' @format A data frame with 42945 rows and 5 variables:
 #' \describe{

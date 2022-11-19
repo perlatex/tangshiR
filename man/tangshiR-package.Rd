@@ -8,6 +8,14 @@
 \description{
 data set of Tang shi.
 }
+\seealso{
+Useful links:
+\itemize{
+  \item \url{https://github.com/perlatex/tangshiR}
+  \item Report bugs at \url{https://github.com/perlatex/tangshiR/issues}
+}
+
+}
 \author{
 \strong{Maintainer}: Minjie Wang \email{wangminjiede@gmail.com} (\href{https://orcid.org/YOUR-ORCID-ID}{ORCID})
 
